@@ -233,7 +233,7 @@ nav a:hover{
         text-decoration: underline;
         border: 2px solid darkgoldenrod;
 }
-.aboutpage, .homepage, .contactpage, .projectdetails {background-color:#ffd700;}
+.aboutpage, .homepage, .contactpage, .projectdetails {background-color:#ffd700; border: 2px solid #000000;}
 /* .project1{display: inline; width: 50%; } */
 #project_title{text-align: center;}
     .project_writeup{
