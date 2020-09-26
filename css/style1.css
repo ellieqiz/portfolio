@@ -86,7 +86,7 @@ h2{
 }
 #image1{
     overflow: hidden;
-    grid-row: 3/span 1;
+    grid-row: 3/span1;
     grid-column: 1/-1;
 }
 
@@ -372,13 +372,13 @@ h1{
     margin-top: 350px; 
     overflow: hidden; 
     z-index: 1; 
-    grid-row: 3/span1;
+    grid-row: 3/span 1;
     grid-column: 1/span1; 
 }
 #image2 {
     width: 575px; 
     height: 360px; 
-    grid-row: 3/span1;
+    grid-row: 3/span 1;
     grid-column: 2/span1;
 }
 #image3 {
