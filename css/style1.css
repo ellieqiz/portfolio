@@ -368,8 +368,8 @@ h1{
     row-gap: 5%;
 }
 #image1 {
-    position: absolute; 
-    margin-top: 350px; 
+/*     position: absolute; 
+    margin-top: 350px;  */
     overflow: hidden; 
     z-index: 1; 
     grid-row: 3/span 1;
@@ -382,8 +382,8 @@ h1{
     grid-column: 2/span1;
 }
 #image3 {
-    grid-row: 4/span1;
-    grid-column: 1/span1;
+    grid-row: 4/span 1;
+    grid-column: 1/span 1;
 }
 #image4 {
     width: 575px; 
