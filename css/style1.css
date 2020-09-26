@@ -116,7 +116,7 @@ h2{
   } */
 #image2{
     overflow: hidden; 
-    grid-row: 4/span 1;
+    grid-row: 4/span1;
     grid-column: 1/-1;
 }
 #image1:hover{opacity: 0.5;}
@@ -128,13 +128,13 @@ h2{
 
 #image3{
     overflow: hidden; 
-    grid-row: 5/span 1;
+    grid-row: 5/span1;
     grid-column: 1/-1;
     /* padding-bottom: 50px;   */
 }
 #image4{
     overflow: hidden; 
-    grid-row: 6/span 1;
+    grid-row: 6/span1;
     grid-column: 1/-1;
     /* padding-bottom: 50px;  */
 }
@@ -368,22 +368,22 @@ h1{
     row-gap: 5%;
 }
 #image1 {
-    position: absolute; */
-    margin-top: 350px; */
+    position: absolute; 
+    margin-top: 350px; 
     overflow: hidden; 
     z-index: 1; 
-    grid-row: 3/span 1;
-    grid-column: 1/span 1; 
+    grid-row: 3/span1;
+    grid-column: 1/span1; 
 }
 #image2 {
     width: 575px; 
     height: 360px; 
-    grid-row: 3/span 1;
-    grid-column: 2/span 1;
+    grid-row: 3/span1;
+    grid-column: 2/span1;
 }
 #image3 {
-    grid-row: 4/span 1;
-    grid-column: 1/span 1;
+    grid-row: 4/span1;
+    grid-column: 1/span1;
 }
 #image4 {
     width: 575px; 
@@ -398,8 +398,8 @@ h1{
  grid-row-gap: 10px;}
 
  .header_text{
-    grid-row: 1/span 1; 
-    grid-column: 1/span 1; 
+    grid-row: 1/span1; 
+    grid-column: 1/span1; 
 }
 .s1{
     overflow: hidden; 
