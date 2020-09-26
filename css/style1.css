@@ -369,7 +369,9 @@ h1{
 }
 #image1 {
 /*     position: absolute; */
-    margin-top: 350px;
+/*     margin-top: 350px; */
+    width: 575px; 
+    height: 360px; 
     overflow: hidden; 
     z-index: 1; 
     grid-row: 3/span 1;
